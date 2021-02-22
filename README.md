@@ -1,6 +1,6 @@
 # Server-Client Shell
 
-The purpose of the project is to create a shell-based server-client system where single or multiple clients can redirect their shell commands to the server module simultaneously. Then the server executes the commands at the running machine and redirects the outputs to the related client.
+The purpose of the project is to create a shell-based server-client system where a single or multiple clients can redirect their shell commands to the server module simultaneously. Then the server executes the commands at the running machine and redirects the outputs to the related client.
 
 Each client can work on a different directory on the same target machine.
 
