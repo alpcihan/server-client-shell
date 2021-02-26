@@ -38,7 +38,7 @@ program. If the connection is not successful the client program will display “
 
   - **Cn$** denotes the client n (ex: C1$ is the client 1)
 
-  - **Bold texts** are the inputs (“ex: S$ python3 server.py” is the input of the server)
+  - **Bold texts** are the inputs (“ex: S$ **python3 server.py**” is the input of the server)
 
   - **Regular texts** are the outputs (“ex: C2$ Trying to connect...” is the output of the client 2)
 
